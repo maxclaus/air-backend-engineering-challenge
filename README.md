@@ -4,6 +4,10 @@ This is my assignment for the Air backend position challenge.
 
 ## Docs
 
+> NOTE: usually I would include more details about the problem we are solving. However,
+> to keep this documentation shorter, I am assuming anyone reviewing it has already read the challenge description.
+> Which describes the problem very well and we can avoid duplicating most of that here.
+
 - Diagrams are available at [diagrams][diagrams_link]
 - Other documents are available at [docs][docs_link] folder.
 
